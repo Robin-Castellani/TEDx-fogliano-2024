@@ -36,7 +36,7 @@ def set_plot_style():
     """
     plt.rcParams.update(
         {
-            "figure.dpi": 300,
+            "figure.dpi": 400,
             "font.family": "Helvetica",
             "figure.facecolor": "black",
             "axes.facecolor": "black",
