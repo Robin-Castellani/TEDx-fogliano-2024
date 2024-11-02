@@ -49,5 +49,6 @@ def set_plot_style():
             "grid.color": "#404040",
             "savefig.facecolor": "black",
             "axes.titlesize": 16,
+            "savefig.bbox": "tight",
         }
     )
